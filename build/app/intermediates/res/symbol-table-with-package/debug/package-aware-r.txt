@@ -1,4 +1,4 @@
-com.example.tradaru_test
+com.example.shoes_from_dribble
 attr alpha
 attr font
 attr fontProviderAuthority

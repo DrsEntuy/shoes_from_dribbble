@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tradaru_test/view/page/page.dart';
+import 'package:shoes_from_dribble/view/page/page.dart';
 
 void main() {
   runApp(MyApp());

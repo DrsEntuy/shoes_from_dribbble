@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.example.tradaru_test"
+3    package="com.example.shoes_from_dribble"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -30,11 +30,11 @@
 25        android:debuggable="true"
 26        android:icon="@mipmap/ic_launcher"
 26-->D:\_Flutter\ProjectTemplate\tradaru\android\app\src\main\AndroidManifest.xml:11:9-43
-27        android:label="tradaru_test" >
+27        android:label="shoes_from_dribble" >
 27-->D:\_Flutter\ProjectTemplate\tradaru\android\app\src\main\AndroidManifest.xml:10:9-37
 28        <activity
 28-->D:\_Flutter\ProjectTemplate\tradaru\android\app\src\main\AndroidManifest.xml:12:9-40:20
-29            android:name="com.example.tradaru_test.MainActivity"
+29            android:name="com.example.shoes_from_dribble.MainActivity"
 29-->D:\_Flutter\ProjectTemplate\tradaru\android\app\src\main\AndroidManifest.xml:13:13-41
 30            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 30-->D:\_Flutter\ProjectTemplate\tradaru\android\app\src\main\AndroidManifest.xml:16:13-163
